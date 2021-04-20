@@ -11,3 +11,28 @@
     width: calc(100% - (20px * 2));
     margin: 20px;
   }
+
+  body {
+    width: 100%;
+    min-height:100%;
+    background-color: lightgray;
+  }
+
+
+  p{
+    color: black;
+    text-align:left;
+  }
+
+
+    
+.navbar {
+  max-width: 98%;
+}
+
+h5{
+  font-size: 24px;
+  font-weight: bold;
+  text-align:left;
+}
+
